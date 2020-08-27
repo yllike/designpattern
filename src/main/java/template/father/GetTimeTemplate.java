@@ -1,4 +1,5 @@
 package template.father;
 
-public class GetTimeTemplate {
+public interface GetTimeTemplate {
+    void getTime();
 }
